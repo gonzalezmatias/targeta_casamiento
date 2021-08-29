@@ -1,0 +1,44 @@
+body{
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+}
+#seccion1{
+    background-image: url("images/gtest.png");
+    width: 100%;
+    height: 1774px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+#seccion2{
+    background-image: url("images/test2.png");    
+    height: 500px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+#seccion3{
+    background-image: url("images/castillo.png");   
+    height: 500px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+.logo-text {
+    font-weight: 600;
+    font-size: 50px;
+}
+.belu-text{
+    top: 215px;
+    position: absolute;
+    left: 344px;
+}
+.mati-text{
+    top: 217px;
+    position: absolute;
+    left: 573px;
+}
